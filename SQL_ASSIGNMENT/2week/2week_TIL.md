@@ -52,11 +52,11 @@ USE는 데이터베이스를 선택할 때 사용하며, DROP DATABASE는 데이
 
 <!-- 이번 챕터에서 제시된 실습을 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 3~4장 제출해 주세요. -->
 
-![alt text](2week/images_2/image.png)
+![alt text](images_2/image.png)
 
-![alt text](2week/images_2/image-1.png)
+![alt text](images_2/image-1.png)
 
-![alt text](2week/images_2/image-2.png)
+![alt text](images_2/image-2.png)
 
 > **확인문제: 다음 SQL문의 빈칸에 들어갈 WHERE절의 문법으로 틀린 것을 고르세요.**
 
@@ -171,15 +171,15 @@ INSERT INTO students VALUES
 4. 나이가 20 이상이고 GPA가 3.5 이상인 학생을 조회하시오.
 5. students 테이블에 본인의 정보를 직접 INSERT 하시오. (INSERT 실행 후, 데이터가 정상적으로 추가되었는지 확인할 수 있도록 조회 결과까지 포함하여 캡처하시오.)
 
-![alt text](2week/images_2/image-3.png)
+![alt text](images_2/image-3.png)
 
-![alt text](2week/images_2/image-4.png)
+![alt text](images_2/image-4.png)
 
-![alt text](2week/images_2/image-5.png)
+![alt text](images_2/image-5.png)
 
-![alt text](2week/images_2/image-6.png)
+![alt text](images_2/image-6.png)
 
-![alt text](2week/images_2/image-7.png)
+![alt text](images_2/image-7.png)
 
 
 
