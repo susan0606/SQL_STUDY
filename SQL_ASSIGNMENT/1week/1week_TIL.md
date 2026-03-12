@@ -109,7 +109,7 @@ Excel
 
 ![alt text](images_1/1-6.png)
 
-![alt text](1week/images_1/1-7.png)
+![alt text](images_1/1-7.png)
 ---
 
 # 2️⃣ 실습과제
