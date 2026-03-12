@@ -69,7 +69,7 @@ Excel
 
 <!-- 이번 챕터는 개념정리 없이 MySQL 설치 후 인증사진으로 대체합니다. -->
 
-![alt text](images_1/image-1.png)
+![alt text](images_1/1-1.png)
 
 ## 3. 건물을 짓기 위한 설계도: 데이터베이스 모델링
 
@@ -89,11 +89,11 @@ Excel
 
 <!-- 이번 챕터는 개념정리 없이 실습 인증사진으로 대체합니다. 강의를 수강하고, 실습 과정이 보이도록 인증사진 3-4장을 아래에 제출해주세요. -->
 
-![alt text](images_1/image-2.png)
+![alt text](images_1/1-2.png)
 
-![alt text](images_1/image-3.png)
+![alt text](images_1/1-3.png)
 
-![alt text](images_1/image-4.png)
+![alt text](images_1/1-4.png)
 
 
 ## 5. 데이터베이스 개체
@@ -105,11 +105,11 @@ Excel
 
 <!-- 인덱스, 뷰, 스토어드 프로시저 실습을 각각 진행한 후, 각 실습에 대한 인증 사진을 1장씩 제출해 주세요. -->
 
-![alt text](images_1/image-5.png)
+![alt text](images_1/1-5.png)
 
-![alt text](images_1/image-6.png)
+![alt text](images_1/1-6.png)
 
-![alt text](images_1/image-7.png)
+![alt text](1week/images_1/1-7.png)
 ---
 
 # 2️⃣ 실습과제
