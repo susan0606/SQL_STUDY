@@ -86,6 +86,7 @@ CHECK / DEFAULT / PRIMAY KEY / UNIQUE / NOT NULL / FOREIGN KEY
 2. 값을 입력하지 않으면 자동으로 들어갈 값: DEFAULT
 3. 빈 값을 입력하는 것을 허용하지 않음: NOT NULL
 ```
+dfsdd
 
 
 ## 3. 가상의 테이블: 뷰 

@@ -75,6 +75,7 @@ CONVERT() / DATA() / CAST() / MOVE() / TYPE() / SUM() / AVG() / CURRENT_DATE()
 CONVERT(), CAST()
 ```
 
+dsf
 
 ## 2. 두 테이블을 묶는 조인
 
